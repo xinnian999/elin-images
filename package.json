@@ -1,0 +1,12 @@
+{
+  "name": "elin-images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "build": "docker compose build",
+    "push": "docker compose push"
+  }
+}
